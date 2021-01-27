@@ -3128,8 +3128,6 @@ PRODUCT_COPY_FILES += \
 
 PRODUCT_PACKAGES += \
     libplatformconfig \
-    aptxals \
-    aptxui \
     CACertService \
     CneApp \
     IWlanService \
@@ -3145,36 +3143,11 @@ PRODUCT_PACKAGES += \
     ConfURIDialer \
     DeviceInfo \
     DeviceStatisticsService \
-    DynamicDDSService \
-    EngSpecialTest \
-    EngineeringMode \
-    LogKitSdService \
     NFCTestMode \
-    NVBackupUI \
     NxpNfcNci \
     NxpSecureElement \
-    OPAppUpgrader \
-    OPBackup \
-    OPBreathMode \
-    OPBugReportLite \
-    OPCommonLogTool \
-    OPDeskClock \
-    OPEngMode \
-    OPFilemanager \
-    OPGamingSpace \
-    OPGeoIpTime \
-    OPLiveWallpaper \
-    OPLongShot \
-    OPOnlineConfig \
-    OPPush \
-    OPScreenRecord \
-    OPSesAuthentication \
-    OPSoundTuner \
-    OPTelephonyDiagnoseManager \
-    OPTelephonyOptimization \
     OemAutoTestServer \
     PerformanceMode \
-    PhotosOnline \
     QColor \
     QTIDiagServices \
     QtiTelephonyService \
@@ -3202,20 +3175,6 @@ PRODUCT_PACKAGES += \
     GoogleOneTimeInitializer \
     GoogleServicesFramework \
     IFAAService \
-    OPAppCategoryProvider \
-    OPAppLocker \
-    OPContacts \
-    OPCoreService \
-    OPDeviceManager \
-    OPDeviceManagerProvider \
-    OPLauncher2 \
-    OPMediaProvider \
-    OPMms \
-    OPNetworkSetting \
-    OPOmm \
-    OPSystemUI \
-    OnePlusCamera \
-    OnePlusGallery \
     OpLogkit \
     QAS_DVC_MSP \
     QuickAccessWallet \
@@ -3231,7 +3190,6 @@ PRODUCT_PACKAGES += \
     daxService \
     dpmserviceapp \
     ims \
-    oneplus-framework-res \
     qcrilmsgtunnel \
     seccamservice \
     WfdCommon \
